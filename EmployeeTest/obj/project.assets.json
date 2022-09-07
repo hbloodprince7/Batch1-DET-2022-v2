@@ -8067,11 +8067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ETG1\\source\\repos\\EmployeeTest\\EmployeeTest.csproj",
+      "projectUniqueName": "C:\\Users\\ETG1\\source\\Batch1-DET-2022 v2\\EmployeeTest\\EmployeeTest.csproj",
       "projectName": "EmployeeTest",
-      "projectPath": "C:\\Users\\ETG1\\source\\repos\\EmployeeTest\\EmployeeTest.csproj",
+      "projectPath": "C:\\Users\\ETG1\\source\\Batch1-DET-2022 v2\\EmployeeTest\\EmployeeTest.csproj",
       "packagesPath": "C:\\Users\\ETG1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ETG1\\source\\repos\\EmployeeTest\\obj\\",
+      "outputPath": "C:\\Users\\ETG1\\source\\Batch1-DET-2022 v2\\EmployeeTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ETG1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8088,11 +8088,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ETG1\\source\\repos\\Batch1-DET-2022\\Batch1-DET-2022.csproj": {
-              "projectPath": "C:\\Users\\ETG1\\source\\repos\\Batch1-DET-2022\\Batch1-DET-2022.csproj"
+            "C:\\Users\\ETG1\\source\\Batch1-DET-2022 v2\\Batch1-DET-2022\\Batch1-DET-2022.csproj": {
+              "projectPath": "C:\\Users\\ETG1\\source\\Batch1-DET-2022 v2\\Batch1-DET-2022\\Batch1-DET-2022.csproj"
             },
-            "C:\\Users\\ETG1\\source\\repos\\MyClassLibrary\\MyClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\ETG1\\source\\repos\\MyClassLibrary\\MyClassLibrary.csproj"
+            "C:\\Users\\ETG1\\source\\Batch1-DET-2022 v2\\MyClassLibrary\\MyClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\ETG1\\source\\Batch1-DET-2022 v2\\MyClassLibrary\\MyClassLibrary.csproj"
             }
           }
         }
