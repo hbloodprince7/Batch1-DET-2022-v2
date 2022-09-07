@@ -26,6 +26,7 @@ namespace Batch1_DET_2022
             //GetAllCustomersWithOrder_EagerLoading();
             //GetAllCustomersWithOrder_ExplicitLoading();
             Disconnectedarchitecture();
+            Console.WriteLine("Hello");
 
 
 
