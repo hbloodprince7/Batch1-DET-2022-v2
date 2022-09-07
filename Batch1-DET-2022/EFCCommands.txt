@@ -1,0 +1,7 @@
+add-migration -c <contextname>
+update-database -context <contextname>
+
+---- SONARQUBE COMMANDS ----
+dotnet "D:\SonarQube\Software\sonar-scanner-msbuild-5.8.0.52797-net5.0/SonarScanner.MSBuild.dll" begin /k:"August22ETG_Sonar" /d:sonar.host.url="http://localhost:9000"  /d:sonar.login="dd59b0d1c119e7652f4ab2cab87876ee40fb932d"
+dotnet build
+dotnet "D:\SonarQube\Software\sonar-scanner-msbuild-5.8.0.52797-net5.0/SonarScanner.MSBuild.dll" end /d:sonar.login="dd59b0d1c119e7652f4ab2cab87876ee40fb932d"
