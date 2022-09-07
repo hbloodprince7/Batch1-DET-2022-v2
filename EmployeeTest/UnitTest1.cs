@@ -27,6 +27,7 @@ namespace EmployeeTest
 
             int actual = e1.GetYearsofExp();
             Assert.AreEqual(experience, actual);
+            Console.WriteLine("Testing");
 
         }
     }
